@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sathya LAD</string>
+
+    <string name="welcome_text">Hi There! Pick your favorite channel to explore...</string>
+    <string name="action_settings">Settings</string>
+    <string name="project1">MUSIC</string>
+    <string name="project2">SPORTS</string>
+    <string name="project3">MOVIES</string>
+    <string name="project4">FUN</string>
+    <string name="project5">READER</string>
+    <string name="project6">CAPSTONE</string>
+</resources>
